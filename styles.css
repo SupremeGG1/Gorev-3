@@ -1,0 +1,15 @@
+img{
+    height: auto; width: auto;
+}
+.gallery {
+    background-color: #dbddf1;
+    padding: 230px 0;
+}
+
+.gallery img{
+    background-color: #ffffff;
+    border: 100px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
